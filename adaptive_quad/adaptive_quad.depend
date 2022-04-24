@@ -1,5 +1,8 @@
 # depslib dependency file v1.0
-1648130295 source:c:\users\vaio\documents\programming-spring-2022-hw\adaptive_quad\main.cpp
+1649338889 source:c:\users\vaio\documents\programming-spring-2022-hw\adaptive_quad\main.cpp
 	<iostream>
 	<omp.h>
+	<cmath>
+	<list>
+	<cstdlib>
 
